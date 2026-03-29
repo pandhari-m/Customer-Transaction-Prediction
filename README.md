@@ -17,11 +17,10 @@ This project predicts whether a customer will make a future transaction based on
 The dataset is anonymized to protect privacy.
 Due to GitHub’s file size restrictions, datasets are **not included** in this repository.
 
-🔗 **Download Dataset Here:**
+🔗 Download Dataset:
+https://drive.usercontent.google.com/download?id=1l0eT-fCvxDZNJ7cTY6t5s4GbFr5MHZUr&authuser=0
 
-
-* [Dataset Link]([https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1003-CustTransPred.zip](https://drive.usercontent.google.com/download?id=1l0eT-fCvxDZNJ7cTY6t5s4GbFr5MHZUr&authuser=0))
-
+⚠️ Note: If Google Drive shows a warning about file size, click "Download anyway".
 
 
 ---
