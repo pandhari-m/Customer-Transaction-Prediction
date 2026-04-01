@@ -90,35 +90,7 @@ Customer-Transaction-Prediction/
 │── src/                 # Source code (data prep, training scripts)
 │── requirements.txt     # Dependencies
 │── README.md            # Project documentation
-```
-
----
-
-## 📥 Installation & Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/pamd005/Customer-Transaction-Prediction.git
-   cd Customer-Transaction-Prediction
-   ```
-
-2. Create virtual environment & install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Place dataset inside `Data/` folder.
-
-4. Run Jupyter Notebook or Python scripts for training:
-
-   ```bash
-   jupyter notebook
-   ```
-
----
-
+```  
 ## 📜 License
 
 This project is licensed under the **MIT License**.
